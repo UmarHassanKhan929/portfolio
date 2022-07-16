@@ -134,7 +134,7 @@ const Main = () => {
             <SocialIcons theme={click ? 'dark' :'light'}/>
             <Center click={click}>
                 <YinYang  onClick={()=> handleClick()} width={click ? 120 : 200} height={click ? 120 : 200} fill='currentColor' />
-                <span>click here</span>
+                <span>Click Here</span>
             </Center>
 
             <Contact target="_blank" to={{pathname:"mailto:khanumarhassan26@gmail.com"}}>
