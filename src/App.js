@@ -1,12 +1,12 @@
 import { ThemeProvider } from "styled-components";
 import GlobalStyles from "./globalStyles";
-import { lightTheme } from "./components/Theme";
+import { lightTheme } from "./pages/Theme";
 import { Switch, Route } from "react-router-dom";
-import Main from './components/Main';
-import AboutPage from './components/AboutPage';
-import WorkExperience from './components/WorkExperience';
-import Projects from './components/Projects';
-import MySkillPage from './components/MySkillPage';
+import Main from './pages/Main';
+import AboutPage from './pages/AboutPage';
+import WorkExperience from './pages/WorkExperience';
+import Projects from './pages/Projects';
+import MySkillPage from './pages/MySkillPage';
 
 function App() {
     return (
