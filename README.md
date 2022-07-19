@@ -1,7 +1,4 @@
-
-
-
-
+## Portfolio Website with React JS [Framer-motion + Styled-components]
 ----------------------------------------------------------------------------------------------
 If you're using NodeJS 17+ versions then you have to edit below line in package.json file👇 <br />
 "start": "react-scripts start", <br />
