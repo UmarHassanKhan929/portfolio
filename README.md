@@ -1,4 +1,6 @@
 ## Portfolio Website with React JS [Framer-motion + Styled-components]
+
+<a href="https://uhk-portfolio.herokuapp.com" target="_blank">Preview it Here</a> <br />
 ----------------------------------------------------------------------------------------------
 If you're using NodeJS 17+ versions then you have to edit below line in package.json file👇 <br />
 "start": "react-scripts start", <br />
@@ -9,7 +11,7 @@ Just add --openssl-legacy-provider like this👇 <br />
 
 ### Resources Used in This Project
 
-Tutorial followed by <a href="https://youtu.be/jcohAIaSy2M"> CodeBucks </a> <br/>
+Tutorial followed by <a href="https://youtu.be/jcohAIaSy2M" target="_blank"> CodeBucks </a> <br/>
 Svg Icons from :https://fontawesome.com/  <br />
 Spaceman 3D Image from : https://www.figma.com/community/plugin/769588393361258724/Vectary-3D-Elements <br />
 Audio: You said it Song by Claire Margot <br />
